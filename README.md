@@ -1,4 +1,6 @@
 # 🔐 Password Generator App (React)
+## Deployed Link 
+https://passs-craft.netlify.app/
 
 A simple and secure password generator built with **React** that allows users to create strong, random passwords with customizable options like length, uppercase/lowercase letters, numbers, and symbols.
 
