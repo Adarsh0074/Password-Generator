@@ -22,7 +22,7 @@ A simple and secure password generator built with **React** that allows users to
 - React
 - JavaScript (ES6+)
 - HTML & CSS
-- [Optional] Tailwind CSS / Chakra UI / Material UI for styling
+
 
 ## 📦 Installation
 
